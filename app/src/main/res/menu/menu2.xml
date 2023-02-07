@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Destacados"
+            android:icon="@drawable/destacados"
+            android:title="Destacados"/>
+        <item
+            android:id="@+id/Pospuestos"
+            android:icon="@drawable/propuestos"
+            android:title="Pospuestos"/>
+        <item
+            android:id="@+id/Importantes"
+            android:icon="@drawable/importantes"
+            android:title="Importantes"/>
+        <item
+            android:id="@+id/Enviados"
+            android:icon="@drawable/enviados"
+            android:title="Enviados"/>
+        <item
+            android:id="@+id/Programados"
+            android:icon="@drawable/programados"
+            android:title="Programados"/>
+        <item
+            android:id="@+id/Bandeja_de_Salida"
+            android:icon="@drawable/salida"
+            android:title="Bandeja de Salida"/>
+        <item
+            android:id="@+id/Borradores"
+            android:icon="@drawable/borradores"
+            android:title="Borradores"/>
+        <item
+            android:id="@+id/Todos"
+            android:icon="@drawable/todos"
+            android:title="Todos"/>
+        <item
+            android:id="@+id/Spam"
+            android:icon="@drawable/spam"
+            android:title="Spam"/>
+        <item
+            android:id="@+id/Papelera"
+            android:icon="@drawable/papelera"
+            android:title="Papelera"/>
+    </group>
+</menu>
